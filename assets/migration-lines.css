@@ -1,0 +1,17 @@
+/* Three selectable line charts on the main migration results page. */
+.migration-line-intro{max-width:730px;margin:24px auto 0;font-size:15px;line-height:1.85}
+.migration-line-intro p{margin-bottom:16px}
+.migration-read-lines{padding:17px 20px;border-left:2px solid var(--teal);background:var(--soft);font-size:12px;line-height:1.85}
+.migration-read-lines strong{display:block;color:var(--teal);margin-bottom:4px}
+.migration-page .story-migration-results{margin-top:20px}
+.migration-page .story-migration-group{padding-top:20px}
+.migration-page .story-migration-group h3{font:400 29px/1.3 Georgia,serif;letter-spacing:-.3px;margin:0 0 18px}
+.migration-page .story-migration-group .story-prose{font-size:15px}
+.migration-page .story-migration-group .story-figure{margin-top:24px}
+.migration-result-links{max-width:1000px;margin:14px auto 22px;font-size:12px;line-height:1.85;color:var(--muted)}
+.migration-result-links a{color:var(--teal)}
+.migration-page .migration-secondary-finding{max-width:1000px;margin:24px auto;font-size:12px}
+.migration-page .migration-all-results{margin-top:24px}
+.migration-page .study-coefficients{min-width:900px}
+.migration-page .migration-checks{margin-top:26px}
+@media(max-width:700px){.migration-line-intro{font-size:14px;margin-top:20px}.migration-read-lines{font-size:12px;padding:15px 17px}.migration-page .story-migration-group h3{font-size:26px}.migration-page .story-migration-group .story-prose{font-size:14px}.migration-page .story-migration-group+.story-migration-group{margin-top:26px;padding-top:26px}.migration-result-links{font-size:11px}}

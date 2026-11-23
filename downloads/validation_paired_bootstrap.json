@@ -1,0 +1,59 @@
+{
+  "replicates": 250,
+  "unit": "held-out diary, Poisson(1) paired bootstrap",
+  "survey_design_consistent": false,
+  "results": [
+    {
+      "model": "ols",
+      "rmse": 145.35498196432144,
+      "rmse_percentile_interval": [
+        144.33071913649783,
+        146.2641553999519
+      ],
+      "rmse_difference_from_fractional": -0.6586078988053998,
+      "paired_difference_interval": [
+        -0.9149777416217063,
+        -0.4519572263637448
+      ]
+    },
+    {
+      "model": "fractional",
+      "rmse": 146.01358986312684,
+      "rmse_percentile_interval": [
+        144.96797308845058,
+        146.9722695867129
+      ],
+      "rmse_difference_from_fractional": 0.0,
+      "paired_difference_interval": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "model": "forest",
+      "rmse": 142.68559748127407,
+      "rmse_percentile_interval": [
+        141.6951051789907,
+        143.76731919716624
+      ],
+      "rmse_difference_from_fractional": -3.3279923818527664,
+      "paired_difference_interval": [
+        -3.7788084806063837,
+        -2.924817859417524
+      ]
+    },
+    {
+      "model": "boosting",
+      "rmse": 142.33836853456833,
+      "rmse_percentile_interval": [
+        141.36018104766302,
+        143.3483643261657
+      ],
+      "rmse_difference_from_fractional": -3.675221328558507,
+      "paired_difference_interval": [
+        -4.030530142884321,
+        -3.3098471096479036
+      ]
+    }
+  ]
+}

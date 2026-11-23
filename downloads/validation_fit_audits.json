@@ -1,0 +1,166 @@
+{
+  "optimization": [
+    {
+      "method": "ols_tuning",
+      "fit": [
+        {
+          "activity": "personal",
+          "stop_code": 2,
+          "iterations": 1134
+        },
+        {
+          "activity": "work",
+          "stop_code": 2,
+          "iterations": 1162
+        },
+        {
+          "activity": "household",
+          "stop_code": 2,
+          "iterations": 1147
+        },
+        {
+          "activity": "social",
+          "stop_code": 2,
+          "iterations": 1131
+        },
+        {
+          "activity": "leisure",
+          "stop_code": 2,
+          "iterations": 1139
+        },
+        {
+          "activity": "travel",
+          "stop_code": 2,
+          "iterations": 1153
+        },
+        {
+          "activity": "unclassified",
+          "stop_code": 2,
+          "iterations": 968
+        }
+      ]
+    },
+    {
+      "tag": "Fractional_tuning_train",
+      "converged": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 729,
+      "objective": 1.4784616566565285,
+      "max_abs_gradient": 4.873122830507984e-07,
+      "elapsed_seconds": 55.825517970952205
+    },
+    {
+      "method": "ols_final",
+      "fit": [
+        {
+          "activity": "personal",
+          "stop_code": 2,
+          "iterations": 1031
+        },
+        {
+          "activity": "work",
+          "stop_code": 2,
+          "iterations": 1021
+        },
+        {
+          "activity": "household",
+          "stop_code": 2,
+          "iterations": 970
+        },
+        {
+          "activity": "social",
+          "stop_code": 2,
+          "iterations": 1050
+        },
+        {
+          "activity": "leisure",
+          "stop_code": 2,
+          "iterations": 997
+        },
+        {
+          "activity": "travel",
+          "stop_code": 2,
+          "iterations": 1065
+        },
+        {
+          "activity": "unclassified",
+          "stop_code": 2,
+          "iterations": 961
+        }
+      ]
+    },
+    {
+      "tag": "Fractional_final_development",
+      "converged": true,
+      "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+      "iterations": 698,
+      "objective": 1.4778091835502936,
+      "max_abs_gradient": 3.5778919558392765e-06,
+      "elapsed_seconds": 71.28226312500192
+    }
+  ],
+  "raw_prediction_diagnostics": {
+    "ols": {
+      "negative_prediction_fraction": 0.022176403511098147,
+      "max_budget_error": 0.032595527462717655,
+      "raw_metrics": [
+        {
+          "activity": "personal",
+          "mae": 95.66031609639268,
+          "rmse": 134.2949743613764,
+          "r2": 0.1011585958820509,
+          "mean_bias": -0.03303037782811255
+        },
+        {
+          "activity": "work",
+          "mae": 136.8546485879367,
+          "rmse": 189.6028428681994,
+          "r2": 0.47143539195721473,
+          "mean_bias": -2.7398665714742627
+        },
+        {
+          "activity": "household",
+          "mae": 117.59369505147869,
+          "rmse": 153.93676046061967,
+          "r2": 0.22382167734180958,
+          "mean_bias": 0.8181353694132109
+        },
+        {
+          "activity": "social",
+          "mae": 72.1983053461467,
+          "rmse": 104.00563029900397,
+          "r2": 0.055790186418012144,
+          "mean_bias": 1.534361789290848
+        },
+        {
+          "activity": "leisure",
+          "mae": 139.98733860894203,
+          "rmse": 181.11715780326895,
+          "r2": 0.25155284585789095,
+          "mean_bias": 0.5092605931685313
+        },
+        {
+          "activity": "travel",
+          "mae": 49.3166671194211,
+          "rmse": 76.1656056331442,
+          "r2": 0.03298201053375538,
+          "mean_bias": 0.465274235006887
+        },
+        {
+          "activity": "unclassified",
+          "mae": 20.32618885156359,
+          "rmse": 44.045850142120976,
+          "r2": 0.004263572248256131,
+          "mean_bias": -0.5541313844306305
+        },
+        {
+          "activity": "all_six_combined",
+          "mae": 101.93516180171964,
+          "rmse": 145.5464987839665,
+          "r2": 0.29344837489005815,
+          "mean_bias": 0.09235583959618372
+        }
+      ]
+    }
+  }
+}

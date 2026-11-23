@@ -1,0 +1,432 @@
+﻿atus_activity_code,bls_activity_label,study_group,study_group_label,lexicon_pdf_page,observed_in_analysis_2005_2025_excluding_2020
+010101,Sleeping,personal,Personal care,2,1
+010102,Sleeplessness,personal,Personal care,2,1
+010199,"Sleeping, n.e.c.*",personal,Personal care,2,1
+010201,"Washing, dressing and grooming oneself",personal,Personal care,2,1
+010299,"Grooming, n.e.c.*",personal,Personal care,2,1
+010301,Health-related self care,personal,Personal care,2,1
+010399,"Self care, n.e.c.*",personal,Personal care,2,1
+010401,Personal/Private activities,personal,Personal care,2,1
+010499,"Personal activities, n.e.c.*",personal,Personal care,2,1
+010501,Personal emergencies,personal,Personal care,2,1
+010599,"Personal care emergencies, n.e.c.*",personal,Personal care,2,1
+019999,"Personal care, n.e.c.*",personal,Personal care,2,1
+020101,Interior cleaning,household,Household & care,2,1
+020102,Laundry,household,Household & care,2,1
+020103,"Sewing, repairing, & maintaining textiles",household,Household & care,2,1
+020104,"Storing interior hh items, inc. food",household,Household & care,2,1
+020199,"Housework, n.e.c.*",household,Household & care,2,1
+020201,Food and drink preparation,household,Household & care,2,1
+020202,Food presentation,household,Household & care,2,1
+020203,Kitchen and food clean-up,household,Household & care,2,1
+020299,"Food & drink prep, presentation, & clean-up, n.e.c.*",household,Household & care,2,1
+020301,"Interior arrangement, decoration, & repairs",household,Household & care,2,1
+020302,Building and repairing furniture,household,Household & care,2,1
+020303,Heating and cooling,household,Household & care,2,1
+020399,"Interior maintenance, repair, & decoration, n.e.c.*",household,Household & care,2,1
+020401,Exterior cleaning,household,Household & care,2,1
+020402,"Exterior repair, improvements, & decoration",household,Household & care,2,1
+020499,"Exterior maintenance, repair & decoration, n.e.c.*",household,Household & care,2,1
+020501,"Lawn, garden, and houseplant care",household,Household & care,2,1
+020502,"Ponds, pools, and hot tubs",household,Household & care,2,1
+020599,"Lawn and garden, n.e.c.*",household,Household & care,2,1
+020681,Care for animals and pets (not veterinary care),household,Household & care,2,1
+020699,"Pet and animal care, n.e.c.*",household,Household & care,2,1
+020701,Vehicle repair and maintenance (by self),household,Household & care,2,1
+020799,"Vehicles, n.e.c.*",household,Household & care,2,1
+020801,"Appliance, tool, and toy set-up, repair, & maintenance (by self)",household,Household & care,2,1
+020899,"Appliances and tools, n.e.c.*",household,Household & care,2,1
+020901,Financial management,household,Household & care,3,1
+020902,Household & personal organization and planning,household,Household & care,3,1
+020903,HH & personal mail & messages (except e-mail),household,Household & care,3,1
+020904,HH & personal e-mail and messages,household,Household & care,3,1
+020905,Home security,household,Household & care,3,1
+020999,"Household management, n.e.c.*",household,Household & care,3,1
+029999,"Household activities, n.e.c.*",household,Household & care,3,1
+030101,Physical care for hh children,household,Household & care,3,1
+030102,Reading to/with hh children,household,Household & care,3,1
+030103,"Playing with hh children, not sports",household,Household & care,3,1
+030104,Arts and crafts with hh children,household,Household & care,3,1
+030105,Playing sports with hh children,household,Household & care,3,1
+030186,Talking with/listening to hh children,household,Household & care,3,1
+030108,Organization & planning for hh children,household,Household & care,3,1
+030109,Looking after hh children (as a primary activity),household,Household & care,3,1
+030110,Attending hh children's events,household,Household & care,3,1
+030111,Waiting for/with hh children,household,Household & care,3,1
+030112,Picking up/dropping off hh children,household,Household & care,3,1
+030199,"Caring for & helping hh children, n.e.c.*",household,Household & care,3,1
+030201,Homework (hh children),household,Household & care,3,1
+030202,Meetings and school conferences (hh children),household,Household & care,3,1
+030203,Home schooling of hh children,household,Household & care,3,1
+030204,Waiting associated with hh children's education,household,Household & care,3,1
+030299,"Activities related to hh child's education, n.e.c.*",household,Household & care,3,1
+030301,Providing medical care to hh children,household,Household & care,3,1
+030302,Obtaining medical care for hh children,household,Household & care,3,1
+030303,Waiting associated with hh children's health,household,Household & care,3,1
+030399,"Activities related to hh child's health, n.e.c.*",household,Household & care,3,1
+030401,Physical care for hh adults,household,Household & care,3,1
+030402,Looking after hh adult (as a primary activity),household,Household & care,3,1
+030403,Providing medical care to hh adult,household,Household & care,3,1
+030404,Obtaining medical and care services for hh adult,household,Household & care,3,1
+030405,Waiting associated with caring for household adults,household,Household & care,3,1
+030499,"Caring for household adults, n.e.c.*",household,Household & care,3,1
+030501,Helping hh adults,household,Household & care,3,1
+030502,Organization & planning for hh adults,household,Household & care,3,1
+030503,Picking up/dropping off hh adult,household,Household & care,3,1
+030504,Waiting associated with helping hh adults,household,Household & care,3,1
+030599,"Helping household adults, n.e.c.*",household,Household & care,3,1
+039999,"Caring for & helping hh members, n.e.c.*",household,Household & care,3,1
+040101,Physical care for nonhh children,household,Household & care,4,1
+040102,Reading to/with nonhh children,household,Household & care,4,1
+040103,"Playing with nonhh children, not sports",household,Household & care,4,1
+040104,Arts and crafts with nonhh children,household,Household & care,4,1
+040105,Playing sports with nonhh children,household,Household & care,4,1
+040186,Talking with/listening to nonhh children,household,Household & care,4,1
+040108,Organization & planning for nonhh children,household,Household & care,4,1
+040109,Looking after nonhh children (as primary activity),household,Household & care,4,1
+040110,Attending nonhh children's events,household,Household & care,4,1
+040111,Waiting for/with nonhh children,household,Household & care,4,1
+040112,Dropping off/picking up nonhh children,household,Household & care,4,1
+040199,"Caring for and helping nonhh children, n.e.c.*",household,Household & care,4,1
+040201,Homework (nonhh children),household,Household & care,4,1
+040202,Meetings and school conferences (nonhh children),household,Household & care,4,1
+040203,Home schooling of nonhh children,household,Household & care,4,1
+040204,Waiting associated with nonhh children's education,household,Household & care,4,1
+040299,"Activities related to nonhh child's educ., n.e.c.*",household,Household & care,4,1
+040301,Providing medical care to nonhh children,household,Household & care,4,1
+040302,Obtaining medical care for nonhh children,household,Household & care,4,1
+040303,Waiting associated with nonhh children's health,household,Household & care,4,1
+040399,"Activities related to nonhh child's health, n.e.c.*",household,Household & care,4,1
+040401,Physical care for nonhh adults,household,Household & care,4,1
+040402,Looking after nonhh adult (as a primary activity),household,Household & care,4,1
+040403,Providing medical care to nonhh adult,household,Household & care,4,1
+040404,Obtaining medical and care services for nonhh adult,household,Household & care,4,1
+040405,Waiting associated with caring for nonhh adults,household,Household & care,4,1
+040499,"Caring for nonhh adults, n.e.c.*",household,Household & care,4,1
+040501,"Housework, cooking, & shopping assistance for nonhh adults",household,Household & care,4,1
+040502,House & lawn maintenance & repair assistance for nonhh adults,household,Household & care,4,1
+040503,Animal & pet care assistance for nonhh adults,household,Household & care,4,1
+040504,Vehicle & appliance maintenance/repair assistance for nonhh adults,household,Household & care,4,1
+040505,Financial management assistance for nonhh adults,household,Household & care,4,1
+040506,Household management & paperwork assistance for nonhh adults,household,Household & care,4,1
+040507,Picking up/dropping off nonhh adult,household,Household & care,4,1
+040508,Waiting associated with helping nonhh adults,household,Household & care,4,1
+040599,"Helping nonhh adults, n.e.c.*",household,Household & care,4,1
+049999,"Caring for & helping nonhh members, n.e.c.*",household,Household & care,4,1
+050101,"Work, main job",work,Work & education,4,1
+050102,"Work, other job(s)",work,Work & education,4,1
+050103,Security procedures related to work,work,Work & education,4,1
+050189,"Working, n.e.c.*",work,Work & education,4,1
+050201,"Socializing, relaxing, and leisure as part of job",work,Work & education,4,1
+050202,Eating and drinking as part of job,work,Work & education,4,1
+050203,Sports and exercise as part of job,work,Work & education,4,1
+050204,Security procedures as part of job,work,Work & education,4,1
+050289,"Work-related activities, n.e.c.*",work,Work & education,4,1
+050301,"Income-generating hobbies, crafts, and food",work,Work & education,5,1
+050302,Income-generating performances,work,Work & education,5,1
+050303,Income-generating services,work,Work & education,5,1
+050304,Income-generating rental property activities,work,Work & education,5,1
+050389,"Other income-generating activities, n.e.c.*",work,Work & education,5,1
+050481,Job search activities,work,Work & education,5,1
+050403,Job interviewing,work,Work & education,5,1
+050404,Waiting associated with job search or interview,work,Work & education,5,1
+050405,Security procedures rel. to job search/interviewing,work,Work & education,5,1
+050499,"Job search and Interviewing, n.e.c.*",work,Work & education,5,1
+059999,"Work and work-related activities, n.e.c.*",work,Work & education,5,1
+060101,"Taking class for degree, certification, or licensure",work,Work & education,5,1
+060102,Taking class for personal interest,work,Work & education,5,1
+060103,Waiting associated with taking classes,work,Work & education,5,1
+060104,Security procedures rel. to taking classes,work,Work & education,5,1
+060199,"Taking class, n.e.c.*",work,Work & education,5,1
+060201,Extracurricular club activities,work,Work & education,5,1
+060202,Extracurricular music & performance activities,work,Work & education,5,1
+060203,Extracurricular student government activities,work,Work & education,5,1
+060289,"Education-related extracurricular activities, n.e.c.*",work,Work & education,5,1
+060301,"Research/homework for class for degree, certification, or licensure",work,Work & education,5,1
+060302,Research/homework for class for pers. interest,work,Work & education,5,1
+060303,Waiting associated with research/homework,work,Work & education,5,1
+060399,Research/homework n.e.c.*,work,Work & education,5,1
+060401,"Administrative activities: class for degree, certification, or licensure",work,Work & education,5,1
+060402,Administrative activities: class for personal interest,work,Work & education,5,1
+060403,Waiting associated w/admin. activities (education),work,Work & education,5,1
+060499,"Administrative for education, n.e.c.*",work,Work & education,5,1
+069999,"Education, n.e.c.*",work,Work & education,5,1
+070101,Grocery shopping,household,Household & care,5,1
+070102,Purchasing gas,household,Household & care,5,1
+070103,Purchasing food (not groceries),household,Household & care,5,1
+070104,"Shopping, except groceries, food and gas",household,Household & care,5,1
+070105,Waiting associated with shopping,household,Household & care,5,1
+070199,"Shopping, n.e.c.*",household,Household & care,5,1
+070201,Comparison shopping,household,Household & care,5,1
+070299,"Researching purchases, n.e.c.*",household,Household & care,5,1
+070301,Security procedures rel. to consumer purchases,household,Household & care,5,1
+070399,"Security procedures rel. to consumer purchases, n.e.c.*",household,Household & care,5,1
+079999,"Consumer purchases, n.e.c.*",household,Household & care,5,1
+080101,Using paid childcare services,household,Household & care,6,1
+080102,Waiting associated w/purchasing childcare svcs,household,Household & care,6,1
+080199,"Using paid childcare services, n.e.c.*",household,Household & care,6,1
+080201,Banking,household,Household & care,6,1
+080202,Using other financial services,household,Household & care,6,1
+080203,Waiting associated w/banking/financial services,household,Household & care,6,1
+080299,"Using financial services and banking, n.e.c.*",household,Household & care,6,1
+080301,Using legal services,household,Household & care,6,1
+080302,Waiting associated with legal services,household,Household & care,6,1
+080399,"Using legal services, n.e.c.*",household,Household & care,6,1
+080401,Using health and care services outside the home,household,Household & care,6,1
+080402,Using in-home health and care services,household,Household & care,6,1
+080403,Waiting associated with medical services,household,Household & care,6,1
+080499,"Using medical services, n.e.c.*",household,Household & care,6,1
+080501,Using personal care services,household,Household & care,6,1
+080502,Waiting associated w/personal care services,household,Household & care,6,1
+080599,"Using personal care services, n.e.c.*",household,Household & care,6,1
+080601,Activities rel. to purchasing/selling real estate,household,Household & care,6,1
+080602,Waiting associated w/purchasing/selling real estate,household,Household & care,6,1
+080699,"Using real estate services, n.e.c.*",household,Household & care,6,1
+080701,Using veterinary services,household,Household & care,6,1
+080702,Waiting associated with veterinary services,household,Household & care,6,1
+080799,"Using veterinary services, n.e.c.*",household,Household & care,6,1
+080801,Security procedures rel. to professional/personal svcs.,household,Household & care,6,1
+080899,Security procedures rel. to professional/personal svcs n.e.c.*,household,Household & care,6,0
+089999,"Professional and personal services, n.e.c.*",household,Household & care,6,1
+090101,Using interior cleaning services,household,Household & care,6,1
+090102,Using meal preparation services,household,Household & care,6,1
+090103,Using clothing repair and cleaning services,household,Household & care,6,1
+090104,Waiting associated with using household services,household,Household & care,6,1
+090199,"Using household services, n.e.c.*",household,Household & care,6,1
+090201,Using home maint/repair/décor/construction svcs,household,Household & care,6,1
+090202,Waiting associated w/ home main/repair/décor/constr,household,Household & care,6,1
+090299,"Using home maint/repair/décor/constr services, n.e.c.*",household,Household & care,6,1
+090301,Using pet services,household,Household & care,6,1
+090302,Waiting associated with pet services,household,Household & care,6,1
+090399,"Using pet services, n.e.c.*",household,Household & care,6,1
+090401,Using lawn and garden services,household,Household & care,6,1
+090402,Waiting associated with using lawn & garden services,household,Household & care,6,1
+090499,"Using lawn and garden services, n.e.c.*",household,Household & care,6,1
+090501,Using vehicle maintenance or repair services,household,Household & care,7,1
+090502,Waiting associated with vehicle main. or repair svcs,household,Household & care,7,1
+090599,"Using vehicle maint. & repair svcs, n.e.c.*",household,Household & care,7,1
+099999,"Using household services, n.e.c.*",household,Household & care,7,1
+100101,Using police and fire services,household,Household & care,7,1
+100102,Using social services,household,Household & care,7,1
+100103,"Obtaining licenses & paying fines, fees, taxes",household,Household & care,7,1
+100199,"Using government services, n.e.c.*",household,Household & care,7,1
+100201,Civic obligations & participation,household,Household & care,7,1
+100299,"Civic obligations & participation, n.e.c.*",household,Household & care,7,1
+100381,Waiting associated with using government services,household,Household & care,7,1
+100383,Waiting associated w/civic obligations & participation,household,Household & care,7,1
+100399,"Waiting assoc. w/govt svcs or civic obligations, n.e.c.*",household,Household & care,7,1
+100401,Security procedures rel. to govt svcs/civic obligations,household,Household & care,7,1
+100499,"Security procedures rel. to govt svcs/civic obligations, n.e.c.*",household,Household & care,7,1
+109999,"Government services, n.e.c.*",household,Household & care,7,1
+110101,Eating and drinking,leisure,Leisure,7,1
+110199,"Eating and drinking, n.e.c.*",leisure,Leisure,7,0
+110281,Waiting associated w/eating & drinking,leisure,Leisure,7,1
+110289,"Waiting associated with eating & drinking, n.e.c.*",leisure,Leisure,7,1
+119999,"Eating and drinking, n.e.c.*",leisure,Leisure,7,1
+120101,Socializing and communicating with others,social,Social,7,1
+120199,"Socializing and communicating, n.e.c.*",social,Social,7,1
+120201,Attending or hosting parties/receptions/ceremonies,social,Social,7,1
+120202,Attending meetings for personal interest (not volunteering),social,Social,7,1
+120299,"Attending/hosting social events, n.e.c.*",social,Social,7,1
+120301,"Relaxing, thinking",leisure,Leisure,7,1
+120302,Tobacco and drug use,leisure,Leisure,7,1
+120303,Television and movies (not religious),leisure,Leisure,7,1
+120304,Television (religious),leisure,Leisure,7,1
+120305,Listening to the radio,leisure,Leisure,7,1
+120306,Listening to/playing music (not radio),leisure,Leisure,7,1
+120307,Playing games,leisure,Leisure,7,1
+120308,Computer use for leisure (exc. Games),leisure,Leisure,7,1
+120309,Arts and crafts as a hobby,leisure,Leisure,7,1
+120310,Collecting as a hobby,leisure,Leisure,7,1
+120311,"Hobbies, except arts & crafts and collecting",leisure,Leisure,7,1
+120312,Reading for personal interest,leisure,Leisure,7,1
+120313,Writing for personal interest,leisure,Leisure,7,1
+120399,"Relaxing and leisure, n.e.c.*",leisure,Leisure,7,1
+120401,Attending performing arts,leisure,Leisure,8,1
+120402,Attending museums,leisure,Leisure,8,1
+120403,Attending movies/film,leisure,Leisure,8,1
+120404,Attending gambling establishments,leisure,Leisure,8,1
+120405,Security procedures rel. to arts & entertainment,leisure,Leisure,8,1
+120499,"Arts and entertainment, n.e.c.*",leisure,Leisure,8,1
+120501,Waiting assoc. w/socializing & communicating,social,Social,8,1
+120502,Waiting assoc. w/attending/hosting social events,social,Social,8,1
+120503,Waiting associated with relaxing/leisure,leisure,Leisure,8,1
+120504,Waiting associated with arts & entertainment,leisure,Leisure,8,1
+120599,"Waiting associated with socializing, n.e.c.*",unclassified,Unclassified,8,1
+129999,"Socializing, relaxing, and leisure, n.e.c.*",unclassified,Unclassified,8,1
+130101,Doing aerobics,leisure,Leisure,8,1
+130102,Playing baseball,leisure,Leisure,8,1
+130103,Playing basketball,leisure,Leisure,8,1
+130104,Biking,leisure,Leisure,8,1
+130105,Playing billiards,leisure,Leisure,8,1
+130106,Boating,leisure,Leisure,8,1
+130107,Bowling,leisure,Leisure,8,1
+130108,"Climbing, spelunking, caving",leisure,Leisure,8,1
+130109,Dancing,leisure,Leisure,8,1
+130110,Participating in equestrian sports,leisure,Leisure,8,1
+130111,Fencing,leisure,Leisure,8,1
+130112,Fishing,leisure,Leisure,8,1
+130113,Playing football,leisure,Leisure,8,1
+130114,Golfing,leisure,Leisure,8,1
+130115,Doing gymnastics,leisure,Leisure,8,1
+130116,Hiking,leisure,Leisure,8,1
+130117,Playing hockey,leisure,Leisure,8,1
+130118,Hunting,leisure,Leisure,8,1
+130119,Participating in martial arts,leisure,Leisure,8,1
+130120,Playing racquet sports,leisure,Leisure,8,1
+130121,Participating in rodeo competitions,leisure,Leisure,8,1
+130122,"Roller skating, inline skating, skateboarding",leisure,Leisure,8,1
+130123,Playing rugby,leisure,Leisure,8,1
+130124,Running,leisure,Leisure,8,1
+130125,"Skiing, ice skating, snowboarding",leisure,Leisure,8,1
+130126,Playing soccer,leisure,Leisure,8,1
+130127,Softball,leisure,Leisure,8,1
+130128,Using cardiovascular equipment,leisure,Leisure,8,1
+130129,Vehicle touring/racing,leisure,Leisure,8,1
+130130,Playing volleyball,leisure,Leisure,8,1
+130131,Walking,leisure,Leisure,8,1
+130132,Participating in water sports,leisure,Leisure,8,1
+130133,Weightlifting/strength training,leisure,Leisure,8,1
+130134,"Working out, unspecified",leisure,Leisure,8,1
+130135,Wrestling,leisure,Leisure,8,1
+130136,Doing yoga,leisure,Leisure,8,1
+130199,Playing sports n.e.c.*,leisure,Leisure,8,1
+130201,Watching aerobics,leisure,Leisure,9,1
+130202,Watching baseball,leisure,Leisure,9,1
+130203,Watching basketball,leisure,Leisure,9,1
+130204,Watching biking,leisure,Leisure,9,1
+130205,Watching billiards,leisure,Leisure,9,1
+130206,Watching boating,leisure,Leisure,9,1
+130207,Watching bowling,leisure,Leisure,9,1
+130208,"Watching climbing, spelunking, caving",leisure,Leisure,9,0
+130209,Watching dancing,leisure,Leisure,9,1
+130210,Watching equestrian sports,leisure,Leisure,9,1
+130211,Watching fencing,leisure,Leisure,9,1
+130212,Watching fishing,leisure,Leisure,9,1
+130213,Watching football,leisure,Leisure,9,1
+130214,Watching golfing,leisure,Leisure,9,1
+130215,Watching gymnastics,leisure,Leisure,9,1
+130216,Watching hockey,leisure,Leisure,9,1
+130217,Watching martial arts,leisure,Leisure,9,1
+130218,Watching racquet sports,leisure,Leisure,9,1
+130219,Watching rodeo competitions,leisure,Leisure,9,1
+130220,"Watching roller skating, inline skating, skateboarding",leisure,Leisure,9,1
+130221,Watching rugby,leisure,Leisure,9,1
+130222,Watching running,leisure,Leisure,9,1
+130223,"Watching skiing, ice skating, snowboarding",leisure,Leisure,9,1
+130224,Watching soccer,leisure,Leisure,9,1
+130225,Watching softball,leisure,Leisure,9,1
+130226,Watching vehicle touring/racing,leisure,Leisure,9,1
+130227,Watching volleyball,leisure,Leisure,9,1
+130228,Watching walking,leisure,Leisure,9,0
+130229,Watching water sports,leisure,Leisure,9,1
+130230,Watching weightlifting/strength training,leisure,Leisure,9,1
+130231,"Watching people working out, unspecified",leisure,Leisure,9,1
+130232,Watching wrestling,leisure,Leisure,9,1
+130299,"Attending sporting events, n.e.c.*",leisure,Leisure,9,1
+130301,Waiting related to playing sports or exercising,leisure,Leisure,9,1
+130302,Waiting related to attending sporting events,leisure,Leisure,9,1
+130399,"Waiting associated with sports, exercise, & recreation, n.e.c.*",leisure,Leisure,9,1
+130401,Security related to playing sports or exercising,leisure,Leisure,9,1
+130402,Security related to attending sporting events,leisure,Leisure,9,1
+130499,"Security related to sports, exercise, & recreation, n.e.c.*",leisure,Leisure,9,0
+139999,"Sports, exercise, & recreation, n.e.c.*",leisure,Leisure,9,1
+140101,Attending religious services,social,Social,9,1
+140102,Participation in religious practices,social,Social,9,1
+140103,Waiting associated w/religious & spiritual activities,social,Social,9,1
+140104,Security procedures rel. to religious & spiritual activities,social,Social,9,1
+140105,Religious education activities,social,Social,9,1
+149999,"Religious and spiritual activities, n.e.c.*",social,Social,9,1
+150101,Computer use,social,Social,10,1
+150102,Organizing and preparing,social,Social,10,1
+150103,Reading,social,Social,10,1
+150104,Telephone calls (except hotline counseling),social,Social,10,1
+150105,Writing,social,Social,10,1
+150106,Fundraising,social,Social,10,1
+150199,"Administrative & support activities, n.e.c.*",social,Social,10,1
+150201,"Food preparation, presentation, clean-up",social,Social,10,1
+150202,Collecting & delivering clothing & other goods,social,Social,10,1
+150203,Providing care,social,Social,10,1
+150204,"Teaching, leading, counseling, mentoring",social,Social,10,1
+150299,"Social service & care activities, n.e.c.*",social,Social,10,1
+150301,"Building houses, wildlife sites, & other structures",social,Social,10,1
+150302,"Indoor & outdoor maintenance, repair, & clean-up",social,Social,10,1
+150399,"Indoor & outdoor maintenance, building & clean-up activities, n.e.c.*",social,Social,10,1
+150401,Performing,social,Social,10,1
+150402,Serving at volunteer events & cultural activities,social,Social,10,1
+150499,"Participating in performance & cultural activities, n.e.c.*",social,Social,10,1
+150501,"Attending meetings, conferences, & training",social,Social,10,1
+150599,"Attending meetings, conferences, & training, n.e.c.*",social,Social,10,1
+150601,Public health activities,social,Social,10,1
+150602,Public safety activities,social,Social,10,1
+150699,"Public health & safety activities, n.e.c.*",social,Social,10,1
+159989,"Volunteer activities, n.e.c.*",social,Social,10,1
+160101,Telephone calls to/from family members,social,Social,10,1
+160102,"Telephone calls to/from friends, neighbors, or acquaintances",social,Social,10,1
+160103,Telephone calls to/from education services providers,social,Social,10,1
+160104,Telephone calls to/from salespeople,social,Social,10,1
+160105,Telephone calls to/from professional or personal care svcs providers,social,Social,10,1
+160106,Telephone calls to/from household services providers,social,Social,10,1
+160107,Telephone calls to/from paid child or adult care providers,social,Social,10,1
+160108,Telephone calls to/from government officials,social,Social,10,1
+169989,"Telephone calls, n.e.c.*",social,Social,10,1
+180101,Travel related to personal care,travel,Travel,10,1
+180199,"Travel related to personal care, n.e.c.*",travel,Travel,10,1
+180280,Travel related to household activities,travel,Travel,11,1
+180381,Travel related to caring for and helping hh children,travel,Travel,11,1
+180382,Travel related to caring for and helping hh adults,travel,Travel,11,1
+180399,"Travel rel. to caring for & helping hh members, n.e.c.*",travel,Travel,11,1
+180481,Travel related to caring for and helping nonhh children,travel,Travel,11,1
+180482,Travel related to caring for and helping nonhh adults,travel,Travel,11,1
+180499,"Travel rel. to caring for & helping nonhh members, n.e.c.*",travel,Travel,11,1
+180501,Travel related to working,travel,Travel,11,1
+180502,Travel related to work-related activities,travel,Travel,11,1
+180589,"Travel related to work, n.e.c.*",travel,Travel,11,1
+180601,Travel related to taking class,travel,Travel,11,1
+180682,Travel related to education (except taking class),travel,Travel,11,1
+180699,"Travel related to education, n.e.c.*",travel,Travel,11,1
+180701,Travel related to grocery shopping,travel,Travel,11,1
+180782,Travel related to shopping (except grocery shopping),travel,Travel,11,1
+180801,Travel related to using childcare services,travel,Travel,11,1
+180802,Travel related to using financial services and banking,travel,Travel,11,1
+180803,Travel related to using legal services,travel,Travel,11,1
+180804,Travel related to using medical services,travel,Travel,11,1
+180805,Travel related to using personal care services,travel,Travel,11,1
+180806,Travel related to using real estate services,travel,Travel,11,1
+180807,Travel related to using veterinary services,travel,Travel,11,1
+180899,"Travel rel. to using prof. & personal care services, n.e.c.*",travel,Travel,11,1
+180901,Travel related to using household services,travel,Travel,11,1
+180902,Travel related to using home main./repair/décor./construction svcs,travel,Travel,11,1
+180903,Travel related to using pet services (not vet),travel,Travel,11,1
+180904,Travel related to using lawn and garden services,travel,Travel,11,1
+180905,Travel related to using vehicle maintenance & repair services,travel,Travel,11,1
+180999,"Travel related to using household services, n.e.c.*",travel,Travel,11,1
+181081,Travel related to using government services,travel,Travel,11,1
+181002,Travel related to civic obligations & participation,travel,Travel,11,1
+181099,"Travel rel. to govt svcs & civic obligations, n.e.c.*",travel,Travel,11,1
+181101,Travel related to eating and drinking,travel,Travel,11,1
+181199,"Travel related to eating and drinking, n.e.c.*",travel,Travel,11,0
+181201,Travel related to socializing and communicating,travel,Travel,11,1
+181202,Travel related to attending or hosting social events,travel,Travel,11,1
+181283,Travel related to relaxing and leisure,travel,Travel,11,1
+181204,Travel related to arts and entertainment,travel,Travel,11,1
+181299,"Travel rel. to socializing, relaxing, & leisure, n.e.c.*",travel,Travel,11,1
+181301,Travel related to participating in sports/exercise/recreation,travel,Travel,12,1
+181302,Travel related to attending sporting/recreational events,travel,Travel,12,1
+181399,"Travel related to sports, exercise, & recreation, n.e.c.*",travel,Travel,12,1
+181401,Travel related to religious/spiritual practices,travel,Travel,12,1
+181499,"Travel rel. to religious/spiritual activities, n.e.c.*",travel,Travel,12,1
+181501,Travel related to volunteering,travel,Travel,12,1
+181599,"Travel related to volunteer activities, n.e.c.*",travel,Travel,12,1
+181601,Travel related to phone calls,travel,Travel,12,1
+181699,"Travel rel. to phone calls, n.e.c.*",travel,Travel,12,1
+181801,Security procedures related to traveling,travel,Travel,12,1
+181899,"Security procedures related to traveling, n.e.c.*",travel,Travel,12,1
+189999,"Traveling, n.e.c.*",travel,Travel,12,1
+500101,Insufficient detail in verbatim,unclassified,Unclassified,12,1
+500103,Missing travel or destination,unclassified,Unclassified,12,1
+500104,Recorded simultaneous activities incorrectly,unclassified,Unclassified,12,1
+500105,"Respondent refused to provide information/""none of your business""",unclassified,Unclassified,12,1
+500106,Gap/can't remember,unclassified,Unclassified,12,1
+500107,Unable to code activity at 1st tier,unclassified,Unclassified,12,1
+509989,"Data codes, n.e.c.*",unclassified,Unclassified,12,1

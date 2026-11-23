@@ -1,0 +1,57 @@
+{
+  "seed": 20261118,
+  "n": 215479,
+  "split": {
+    "train": 129287,
+    "tuning": 43096,
+    "locked_test": 43096,
+    "final_development": 172383
+  },
+  "methods": {
+    "ols": "Weighted OLS",
+    "fractional": "Current fractional model",
+    "forest": "Random forest",
+    "boosting": "Gradient boosting"
+  },
+  "primary_selection_metric": "Survey-weighted six-activity RMSE on tuning data; test untouched until selection and final fits.",
+  "comparison": "Same diary rows, observed demographic/year/geography/calendar inputs, seven outcomes, survey weights and final 1440-minute simplex projection.",
+  "fractional_penalty": 0.0001,
+  "rf_grid": [
+    {
+      "n_estimators": 160,
+      "max_depth": 18,
+      "min_samples_leaf": 15
+    },
+    {
+      "n_estimators": 160,
+      "max_depth": 18,
+      "min_samples_leaf": 40
+    }
+  ],
+  "boosting_grid": [
+    {
+      "iterations": 650,
+      "depth": 6,
+      "learning_rate": 0.06,
+      "one_hot_max_size": 512
+    },
+    {
+      "iterations": 650,
+      "depth": 8,
+      "learning_rate": 0.06,
+      "one_hot_max_size": 512
+    }
+  ],
+  "not_future_forecasting": true,
+  "not_mover_effect_validation": true,
+  "holdout_history": "The seed and 80/20 outer split match the earlier v3 internal validation. Outcomes are excluded from this run’s fitting/tuning, but this is a reused internal holdout, not a new external validation sample.",
+  "encoding_revision": "After a computationally expensive native-CTR attempt, before any final test scoring, boosting uses explicit one-hot encoding for categorical levels up to 512; all observed category vocabularies fall below that limit.",
+  "preprocessing": "One-hot categorical vocabulary fit on training rows only (including public geography codes), fixed age knots. Refit preprocessing on development rows for final fits. Tree boosting sees the same columns as native categorical inputs.",
+  "test_id_hash": "a707f9457f6792435ca44c7547bf6af0d9d4a331b4108aeac0ccd44fa097f6fb",
+  "source_sha256": "3f884202bbdbc14afac2c73d9b43cf8f958c1deef20d57a18a42d76dd6cacb33",
+  "versions": {
+    "python": "3.11.16",
+    "sklearn": "1.9.1",
+    "catboost": "1.2.10"
+  }
+}

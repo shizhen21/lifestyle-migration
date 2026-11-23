@@ -1,0 +1,6 @@
+{
+  "reason": "Native target-statistic categorical processing was computationally expensive. Explicit one-hot encoding is used for all observed categorical levels (CatBoost one_hot_max_size=512).",
+  "changed_before_any_final_test_scoring": true,
+  "same_seed_split_inputs_outcomes_weights_and_tuning_grids": true,
+  "abandoned_run_test_metrics_created": false
+}

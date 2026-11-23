@@ -1,0 +1,25 @@
+age_group,education_group,mover_n,weighted_persons
+18-24,Below high school,2418,253645
+25-34,Below high school,2735,289576
+35-44,Below high school,2051,240330
+45-54,Below high school,1701,187206
+55-64,Below high school,1480,152418
+65+,Below high school,2112,210976
+18-24,High school/GED,14513,1322169
+25-34,High school/GED,6803,833088
+35-44,High school/GED,4176,518669
+45-54,High school/GED,3453,398764
+55-64,High school/GED,3561,361136
+65+,High school/GED,4681,429722
+18-24,Some college/Associate,27048,2319592
+25-34,Some college/Associate,10705,1346626
+35-44,Some college/Associate,6152,749594
+45-54,Some college/Associate,4746,539181
+55-64,Some college/Associate,4958,484891
+65+,Some college/Associate,5252,477173
+18-24,Bachelor or higher,11431,1292903
+25-34,Bachelor or higher,32278,3765979
+35-44,Bachelor or higher,14401,1652072
+45-54,Bachelor or higher,7845,865280
+55-64,Bachelor or higher,7116,687813
+65+,Bachelor or higher,7498,665881

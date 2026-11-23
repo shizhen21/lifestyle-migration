@@ -1,0 +1,17 @@
+# Lifestyle Patterns: data and interpretation
+
+The page describes observed activity time in ATUS 2005–2025, excluding 2020 because the survey was interrupted. All 215,479 eligible complete diaries are retained for national estimates, including respondents whose metro code is not disclosed. All 337 observed public metro codes are retained in the statistical data. The interface uses the 300 codes matched to actual MSA polygons. ACS origin–destination sample eligibility and minimum metro sample rules are not used.
+
+Each cell is a final-survey-weighted mean of seven activity minute totals, including unclassified time. The final weight corrects unequal weekday/weekend sampling. These descriptive results are not additionally standardized for demographics, month or holidays. The separate prediction page controls diary weekday, month and holidays and uses a common reference calendar.
+
+For pooled periods, final weights are normalized to sum to one within each national year. National years therefore receive equal weight; metro and demographic groups retain their share of the national weighted population in each year. A pooled metro estimate is a population-weighted mean across its observed years, not an unweighted average of city-year means. Annual trends are the actual year-specific weighted means.
+
+Group comparisons use one demographic dimension at a time; unknown responses remain a visible group. Selecting a group filters the time and metro panels; the age panel compares age groups in selected years, and the demographic panel shows all categories of its chosen dimension. Their captions state the population used.
+
+Charts retain small observed samples. Cells with fewer than 30 unweighted diaries have hollow markers or sparse-sample labels. This is a display flag, not an exclusion or confidence interval. Effective sample size is (sum of weights)^2 / sum of squared weights; it is only a weighting diagnostic and does not account for the ATUS survey design. Missing city-years are gaps, never zeros or interpolated observations. 2020 is a gap in annual trends.
+
+Historical public codes without a matching polygon remain in the statistical data and are not offered as interactive MSA choices. Geographic definitions changed, especially during the 2004–2005 and 2014–2015 transitions. The 337 codes are not 337 boundary-consistent contemporary metros. We retain rather than silently harmonize or discard them. A code may have no observations in a selected period.
+
+Cross-sectional age differences are not individual aging trajectories. Observed differences by demographics, time and place are associations; they do not show what caused a person's lifestyle to change. Income groups use the 16 public nominal annual family-income bands. Race and Hispanic/Latino origin are separate; education has nine groups, marriage six states, and household children four count groups. Multiracial codes are pooled because detailed definitions change in 2012. Personal care includes sleep; work includes education; household includes care, shopping and services; leisure includes eating and exercise. Original project activity mapping is preserved.
+
+Reproduce with `python3 research_rebuild/scripts/24_build_detailed_patterns.py`. The coverage audit compares prepared metro codes directly with GTCBSA in the original ATUS-CPS ZIP and confirms zero mismatches. Downloaded chart CSVs contain the displayed weighted means and unweighted diary counts.
